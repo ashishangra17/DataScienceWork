@@ -1,2 +1,2 @@
-# Heart Disease Prediction
-Repository having various real world problems solved by me using Various Data Science Techniques
+# Heart Disease Prediction using Decision Trees
+Used Decision Tree to predict Heart Disease.
